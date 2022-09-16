@@ -11,3 +11,11 @@ h1{
 .line2{
     color:brown;
 }
+
+.line3{
+    font-size: large;
+    font-weight: 900;
+    color: #fff;
+    background: rgb(228,208,19);
+background: radial-gradient(circle, rgba(228,208,19,1) 14%, rgba(26,233,217,1) 28%, rgba(249,255,0,1) 69%, rgba(69,255,0,1) 85%, rgba(219,255,0,1) 100%);
+}
